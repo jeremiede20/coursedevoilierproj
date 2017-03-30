@@ -1,0 +1,14 @@
+﻿<Window x:Class="CourseVoiliers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseVoiliers"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Se connecter" HorizontalAlignment="Left" Margin="193,179,0,0" VerticalAlignment="Top" Width="124" Height="37" Click="Button_Click_1"/>
+        <TextBox x:Name="TextBoxMail" HorizontalAlignment="Left" Height="31" Margin="136,78,0,0" TextWrapping="Wrap" Text="Mail" VerticalAlignment="Top" Width="249"/>
+        <TextBox x:Name="TextBoxPass" HorizontalAlignment="Left" Height="31" Margin="136,126,0,0" TextWrapping="Wrap" Text="Mot de passe" VerticalAlignment="Top" Width="249"/>
+    </Grid>
+</Window>
