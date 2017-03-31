@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\App.xaml
-21311459848
+7582140965
 
-101513146298
+151574749343
 161556419631
-Accueil.xaml;MainWindow.xaml;
+Accueil.xaml;Inscription.xaml;ListeCourse.xaml;ListeVoilier.xaml;MainWindow.xaml;NouvelleCourse.xaml;NouvelleEpreuve.xaml;
 
-True
+False
 

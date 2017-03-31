@@ -10,31 +10,32 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace CourseVoiliers
 {
     /// <summary>
-    /// Logique d'interaction pour MainWindow.xaml
+    /// Logique d'interaction pour ListeCourse.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ListeCourse : Window
     {
-        public MainWindow()
+        public ListeCourse()
         {
             InitializeComponent();
         }
-        
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var nom = new NouvelleCourse();
+            nom.Show();
+            this.Close();
+        }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            string Var1 = TextBoxMail.Text;
-            string Var2 = TextBoxPass.Text;
-
             var nom = new Accueil();
             nom.Show();
-            this.Close();   
+            this.Close();
         }
-        
     }
 }

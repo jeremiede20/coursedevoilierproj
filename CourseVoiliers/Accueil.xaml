@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CourseVoiliers"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Accueil" Height="350" Width="525">
     <Grid>
-        <DataGrid HorizontalAlignment="Left" Height="155" Margin="32,78,0,0" VerticalAlignment="Top" Width="448"/>
+        <Button Content="Courses en cours" HorizontalAlignment="Left" Margin="74,111,0,0" VerticalAlignment="Top" Width="162" Click="Button_Click" Height="58"/>
+        <Button Content="Historique" HorizontalAlignment="Left" Margin="298,111,0,0" VerticalAlignment="Top" Width="154" Click="Button_Click_1" Height="55"/>
+        <Button Content="Inscription" HorizontalAlignment="Left" Margin="162,205,0,0" VerticalAlignment="Top" Width="195" Height="60" Click="Button_Click_2"/>
     </Grid>
 </Window>

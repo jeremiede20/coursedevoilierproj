@@ -18,3 +18,9 @@ d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\bin\
 d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\bin\Debug\EntityFramework.SqlServer.xml
 d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\Accueil.g.cs
 d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\Accueil.baml
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\ListeCourse.g.cs
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\ListeCourse.baml
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\NouvelleCourse.g.cs
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\NouvelleEpreuve.g.cs
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\NouvelleCourse.baml
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\NouvelleEpreuve.baml
