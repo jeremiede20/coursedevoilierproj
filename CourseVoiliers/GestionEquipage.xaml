@@ -1,11 +1,11 @@
-﻿<Window x:Class="CourseVoiliers.Inscription"
+﻿<Window x:Class="CourseVoiliers.GestionEquipage"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CourseVoiliers"
         mc:Ignorable="d"
-        Title="Inscription" Height="300" Width="525">
+        Title="GestionEquipage" Height="300" Width="525">
     <Grid>
         <Button Content="Retour" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="159,119,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>

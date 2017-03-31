@@ -10,30 +10,24 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace CourseVoiliers
 {
     /// <summary>
-    /// Logique d'interaction pour Inscription.xaml
+    /// Logique d'interaction pour GestionEquipage.xaml
     /// </summary>
-    public partial class Inscription : Window
+    public partial class GestionEquipage : Page
     {
-        public Inscription()
+        public GestionEquipage()
         {
             InitializeComponent();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            var nom = new Accueil();
-            nom.Show();
-            this.Close();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            var nom = new GestionEquipage();
+            var nom = new Inscription();
             nom.Show();
             this.Close();
         }
