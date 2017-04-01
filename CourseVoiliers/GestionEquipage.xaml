@@ -12,7 +12,7 @@
         <TextBox HorizontalAlignment="Left" Height="23" Margin="22,119,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="159,82,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="22,82,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <Button Content="Sauvegarder et passer à la &#xD;&#xA;gestion de l'équipage" HorizontalAlignment="Center" Margin="314,90,10,0" VerticalAlignment="Top" Width="193" Height="36" HorizontalContentAlignment="Center" Click="Button_Click"/>
+        <Button Content="Sauvegarder et passer à la &#xA;gestion des sponsors" HorizontalAlignment="Center" Margin="314,90,10,0" VerticalAlignment="Top" Width="193" Height="36" HorizontalContentAlignment="Center" Click="Button_Click"/>
 
     </Grid>
 </Window>

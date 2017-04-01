@@ -18,18 +18,23 @@ namespace CourseVoiliers
     /// <summary>
     /// Logique d'interaction pour GestionEquipage.xaml
     /// </summary>
-    public partial class GestionEquipage : Page
+    public partial class GestionEquipage : Window
     {
         public GestionEquipage()
         {
             InitializeComponent();
         }
-
+        
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             var nom = new Inscription();
             nom.Show();
             this.Close();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
