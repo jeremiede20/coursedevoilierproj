@@ -24,3 +24,9 @@ d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\
 d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\NouvelleEpreuve.g.cs
 d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\NouvelleCourse.baml
 d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\NouvelleEpreuve.baml
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\GestionEquipage.g.cs
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\Inscription.g.cs
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\ListeVoilier.g.cs
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\GestionEquipage.baml
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\Inscription.baml
+d:\user\documents\visual studio 2017\Projects\CourseVoiliers\CourseVoiliers\obj\Debug\ListeVoilier.baml
