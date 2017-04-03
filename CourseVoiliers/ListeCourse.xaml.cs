@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Data.SqlClient;
 using CourseVoiliers.Classes;
+using System.Data;
 
 namespace CourseVoiliers
 {
@@ -44,7 +45,21 @@ namespace CourseVoiliers
 
             
             List<Course> listCourses = new List<Course>();
+            Console.WriteLine(Courses());
             this.DataContext = listCourses;
+        }
+
+        public List<Course> Courses()
+        {
+            List<Course> courses = new List<Course>();
+            using (var db = new DbCourseVoiliersContext())
+            {
+                foreach (Course c in db.Courses)
+                {
+                    courses.Add(c);
+                }
+            }
+            return courses;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
